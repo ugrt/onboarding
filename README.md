@@ -50,6 +50,6 @@ ROS (Robot Operating System) isn't really an operating system, but rather a
 framework for building and communicating with Robots. The core is written is
 C++, but many modules are also available in Python 2.
 
-Also note, ROS is currently only supported on Ubuntu 16.04 (last checked: 2018-09-10).
+Also note, ROS Kinetic is currently only supported on Ubuntu 16.04 (last checked: 2020-06-28).
 
 - http://wiki.ros.org/ROS/Tutorials
