@@ -85,6 +85,7 @@ There is also support on Windows, but our end product will be running on Ubuntu.
 - https://docs.ros.org/en/humble/Installation.html
 ### Tutorials
 - https://docs.ros.org/en/humble/Tutorials.html
+- https://github.com/ros-industrial/ros2_i_training
 
 # Recommended Navigation Software Onboarding Path
 
